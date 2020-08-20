@@ -1,1 +1,1 @@
-staking and governance contracts will be opensource once live.
+staking and governance contracts will be open source once live.
